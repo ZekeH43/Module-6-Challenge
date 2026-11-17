@@ -1,0 +1,12 @@
+# Local Python and notebook-generated files
+**/.ipynb_checkpoints/
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+.DS_Store
